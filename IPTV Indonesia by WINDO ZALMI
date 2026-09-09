@@ -61,10 +61,12 @@ http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 <=============================================================================================================================================>
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
-#EXT-X-TARGETDURATION:2
+#EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="Indonesia Channels",CNN Indonesia 
@@ -73,7 +75,7 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
 #EXT-X-TARGETDURATION:1
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:YES
+#EXT-X-ALLOW-CACHE:NO
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302230
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnbc.png" group-title="Indonesia Channels",CNBC Indonesia 
