@@ -32,6 +32,10 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 http://013tv.com:8080/F33848/cbd9779b/162503
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
 http://013tv.com:8080/F33848/cbd9779b/162502
 
 <=============================================================================================================================================>
