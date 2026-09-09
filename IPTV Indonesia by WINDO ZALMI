@@ -25,11 +25,13 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 <=============================================================================================================================================>
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
-#EXT-X-TARGETDURATION:2
+#EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://013tv.com:8080/F33848/cbd9779b/162503
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXT-X-TARGETDURATION:2
