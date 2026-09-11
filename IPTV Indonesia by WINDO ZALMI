@@ -405,7 +405,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:V_Sport_1_Logo_01.png#/media/File:V_Sport_1_Logo_01.png" group-title="SPORTS",V+ Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Logo_Vision%2B_App.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20241123155138" group-title="SPORTS",V+ Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
